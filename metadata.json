@@ -1,0 +1,6 @@
+{
+  "name": "Lance – AI-Powered Hotel Operations",
+  "description": "Unified hotel operations platform combining Receptionist AI, Sales AI, and Lance Pad staff operations hub.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
